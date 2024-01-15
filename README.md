@@ -26,6 +26,10 @@ Of course, if you want to record your own data, the number of frame is adjustabl
 some points need to be caution:
 - in this project, recording videos require a camera.
 - in our experiment, drastically quick moving or environment brightness will cause Mediapipe keypoint disappear. This will make some of the     frame in single video become useless. So, we implement a function to detect if there exist any frame lacking keypoints. Any lacking keypoints frame will automatically redo the current video recording. In some kind of situation, this will be very irritating and annoying, but it can help us to maintain data integrity.
+
+if you are interest in the whole file, here are the links: 
+https://drive.google.com/file/d/1wfubFCg_XC5zDYnWojsZYZjevAQOzHFC/view?usp=sharing
+
 ---
 I know, this is not perfect, still need a lot of optimization. But in the process of researching this topic, we learned lots of skill about image process and deep learning. 
 
