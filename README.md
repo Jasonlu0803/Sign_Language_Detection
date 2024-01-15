@@ -35,5 +35,7 @@ I know, this is not perfect, still need a lot of optimization. But in the proces
 
 Hope this not perfect project can inspired someone in the future.
 
+The model after we training: https://drive.google.com/file/d/1siz-rzY9QQN6Mv5KE4L6u6e_DbsUIA1_/view?usp=sharing
+
 If you have any question or issue, feel free to contact me. 
 Lu Shang Hung(or Jason Lu): sunwasd456@gmal.com
